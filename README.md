@@ -5,3 +5,4 @@ Trabalho final do curso Desenvolvimento Ágil com Padrões de Projeto
 * Factory Method Pattern
 * Observer Pattern
 * Null Object Pattern
+* Singleton Pattern
